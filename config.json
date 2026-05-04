@@ -2,6 +2,7 @@
   "version": "3.1.0",
   "licenses": {
     "NSCRIPT-ADMIN-2026": { "hwid": "MASTER", "activated": "2024-01-01", "expiry": "2030-01-01" },
-    "KEY-Crown-001": { "hwid": "TWFOAGVLC2HH", "activated": "2024-05-04", "expiry": "2025-05-09" }
+    "KEY-Crown-001": { "hwid": "TWFOAGVLC2HH", "activated": "2024-05-04", "expiry": "2025-05-09" },
+    "KEY-CROWN-PRO": { "hwid": "REVTS1RPUC1Q", "activated": "2024-05-04", "expiry": "2027-05-09" }
   }
 }
